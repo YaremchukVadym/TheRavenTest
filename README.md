@@ -33,7 +33,6 @@ Follow these steps to get the project up and running:
 
    ```bash
    git clone https://github.com/YaremchukVadym/TheRavenTest.git
-   cd customer-management-api
    ```
 
 2. **Set Up PostgreSQL Database**:
