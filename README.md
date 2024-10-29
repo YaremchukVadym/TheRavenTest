@@ -32,7 +32,7 @@ Follow these steps to get the project up and running:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/customer-management-api.git
+   git clone https://github.com/YaremchukVadym/TheRavenTest.git
    cd customer-management-api
    ```
 
